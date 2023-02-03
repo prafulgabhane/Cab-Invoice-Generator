@@ -1,4 +1,5 @@
 using CabInvoiceGenerator;
+
 namespace CabInvoiceGenerator
 {
     [TestClass]
