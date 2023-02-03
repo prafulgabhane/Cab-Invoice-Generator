@@ -1,4 +1,4 @@
-using CabInvoiceGenerator;
+using CabInvoiceGeneratorProgram25Jan;
 
 namespace CabInvoiceGenerator
 {
